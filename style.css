@@ -1,0 +1,19 @@
+.diet{color:blue;}
+body{ font-family: 'Poppins', sans-serif;margin:o auto;}
+h2{font-size:150%}
+section{display:flex;}
+#half{width:50%}
+#half img{width:100%}
+.paragraph{padding:10%}
+a{text-decoration:none;padding:2%;background-image:linear-gradient(purple, blue);border-radius: 5px;color:white;}
+.add{background-image:url(images/shapes/7.png);repeat:no-repeat;}
+article{text-align:center;}
+.soup img{width:100%;}
+.veg img{width:100%;}
+.fruit img{width:100%;}
+.last{padding:}
+#final{box-shadow:10px 10px 40px gray;border-radius:10px ; width:30%;margin-left:5%; margin-right:5%;padding:2%;}
+#final p{text-align:justify;}
+.health{color:lime}
+footer{background-color:black;}
+.yellow{color:yellow}
